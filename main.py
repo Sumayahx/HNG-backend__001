@@ -9,7 +9,7 @@ def get_info():
     return {
         "email": "sumayashittu@gmail.com",
         "current_datetime": datetime.now(pytz.utc).isoformat(),
-        "github_url": "https://github.com/Sumayahx/hng_backend_001"
+        "github_url": "https://github.com/Sumayahx/HNG-backend__001"
     }
 
 app.add_middleware(
